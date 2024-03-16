@@ -1,6 +1,5 @@
-# Separate AoE II Definitive Edition AI Difficulties
 ---
-## Scripti, joka luo AoE II Definitive Editioniin tekoälyt eri vaikeusasteille
+# Scripti, joka luo AoE II Definitive Editioniin tekoälyt eri vaikeusasteille
 
 Normaalisti AoE II DE voit valita vain kiinteän vaikeusasteen KAIKILLE tekoälypelaajille
 
